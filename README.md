@@ -17,6 +17,6 @@ is mapped to the user's keyboard in the following manner:
 1234   ->   |1|2|3|C|\
 qwer   ->   |4|5|6|D|\
 asdf   ->   |7|8|9|E|\
-zxcv   ->   |A|0|B|F|\
+zxcv   ->   |A|0|B|F|
 
 The user may toggle a pause state by simply pressing the `P` key.
