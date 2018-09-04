@@ -1,4 +1,3 @@
-![chip8_invaders](https://user-images.githubusercontent.com/8182077/45005679-74040b00-afba-11e8-92e9-753823941374.png)
 
 # Chip8-C-Emulator
 Code for a Chip8 interpreter written in C. The core implementation was
@@ -24,3 +23,8 @@ zxcv   ->   |A|0|B|F|
 ```
 
 The user may toggle a pause state by simply pressing the `P` key.
+
+# Screenshots
+![chip8_invaders](https://user-images.githubusercontent.com/8182077/45005679-74040b00-afba-11e8-92e9-753823941374.png)
+
+
