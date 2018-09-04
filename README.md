@@ -28,3 +28,5 @@ The user may toggle a pause state by simply pressing the `P` key.
 ![chip8_invaders](https://user-images.githubusercontent.com/8182077/45005679-74040b00-afba-11e8-92e9-753823941374.png)
 
 ![chip8_pong](https://user-images.githubusercontent.com/8182077/45005739-b7f71000-afba-11e8-809c-87f24716a80f.png)
+
+![chip8_tetris](https://user-images.githubusercontent.com/8182077/45005758-c9401c80-afba-11e8-8e92-5140506dac78.png)
