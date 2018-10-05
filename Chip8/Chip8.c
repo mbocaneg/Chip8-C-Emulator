@@ -4,7 +4,7 @@
 
 uint16_t rom_size = 0;
 char *rom_name;
-
+uint32_t start_time = 0;
 uint16_t currentPC = 0;
 
 void chip8_loadrom(Chip8 *chip8, char *romname) {
