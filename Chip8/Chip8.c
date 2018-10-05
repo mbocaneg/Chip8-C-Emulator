@@ -2,10 +2,6 @@
 #include <stdio.h>
 #include <string.h>
 
-
-#define PSC 10
-
-uint32_t start_time = 0;
 uint16_t rom_size = 0;
 char *rom_name;
 
